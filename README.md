@@ -1,4 +1,5 @@
-# Least_Square_-Circle_Fitting-
+# Least Square Circle Fitting
+
 This is GUI Application , developed in C++ with QT (5.7).
 
 Here, user can select/ deselect the grid points.
